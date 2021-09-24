@@ -1,0 +1,53 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "flaticon";
+  src: url("./flaticon.ttf?ad44eb1ef3b38340d95ae6be3c1d122d") format("truetype"), url("./flaticon.woff?ad44eb1ef3b38340d95ae6be3c1d122d") format("woff"), url("./flaticon.woff2?ad44eb1ef3b38340d95ae6be3c1d122d") format("woff2"), url("./flaticon.eot?ad44eb1ef3b38340d95ae6be3c1d122d#iefix") format("embedded-opentype"), url("./flaticon.svg?ad44eb1ef3b38340d95ae6be3c1d122d#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+  font-family: flaticon !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-yoga:before {
+  content: "";
+}
+
+.flaticon-yoga-1:before {
+  content: "";
+}
+
+.flaticon-buddhist-yoga-pose:before {
+  content: "";
+}
+
+.flaticon-stretching-exercises:before {
+  content: "";
+}
+
+.flaticon-fitness:before {
+  content: "";
+}
+
+.flaticon-exercise:before {
+  content: "";
+}
+
+.flaticon-treadmill:before {
+  content: "";
+}
+
+.flaticon-weightlifter:before {
+  content: "";
+}
+
+.flaticon-exercise-1:before {
+  content: "";
+}
+/*# sourceMappingURL=flaticon.css.map */
